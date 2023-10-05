@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Jaycee Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **studying** person."
+  bio              : "I am a **studying** person."
   location         : "Somewhere"
   email            :
   links:
