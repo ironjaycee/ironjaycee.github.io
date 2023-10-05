@@ -8,7 +8,7 @@ main:
   #   url: /collection-archive/  
   #- title: "Category"
   #   url: /categories/
-  #- title: "Tags"
-  #   url: /tags/    
+  - title: "Tags"
+      url: /tags/    
   #- title: "Sitemap"
   #   url: /sitemap/
