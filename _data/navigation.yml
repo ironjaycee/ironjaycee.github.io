@@ -5,6 +5,10 @@ main:
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  #   url: /collection-archive/  
+  - title: "Category"
+     url: /categories/
+  - title: "Tags"
+     url: /tags/    
+  - title: "Sitemap"
+     url: /sitemap/
