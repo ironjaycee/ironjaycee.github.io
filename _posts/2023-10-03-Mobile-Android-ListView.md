@@ -11,7 +11,7 @@ tags:
 Structure of ListView
 
 <figure style="width: 100%">
-  <img src="https://ironjaycee.github.io/assets/images/ListViewStrudctrue.jpg" alt="">
+  <img src="https://ironjaycee.github.io/assets/images/ListViewStrudctrue.png" alt="">
 </figure>
 
 Recycling View
